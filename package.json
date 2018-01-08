@@ -1,0 +1,14 @@
+{
+    "name": "muvitube",
+    "version": "1.0.0",
+    "description": "Movie selection plateform",
+    "main": "server.js",
+    "author": "jangir.radheyshyam@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "bluebird": "^3.4.1",
+        "body-parser": "^1.15.2",
+        "express": "^4.14.0",
+        "mongodb": "^2.1.18"
+    }
+}
